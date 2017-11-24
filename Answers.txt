@@ -1,0 +1,20 @@
+Q. Compare following network parameters between “Erdös-Rènyi random network model”
+and “BA preferential attachment model” Consider n=100.
+(a) Characteristic path length
+(b) Average Clustering Coefficient
+(c) Degree Distribution
+
+Ans. For n=100, characteristic path length of BA model was 5.4545
+whereas characteristic path length for Erdosrenyi model was random for random instances.
+It could be less than, almost equal or greater than what we get in BA model.
+Clustering coefficient was more for BA model as compared to ErdosRenyi model.
+Also degree distribution can be seen in image files of 'degree_dist...', degree distribution
+is almost the same for both the models
+
+
+Q. Which of these network models fit better with real-world networks? How?
+
+Ans. Barabasi-Albert model is more close to real-world networks, because it works on preferential attachment
+principle. All the real world networks such as www, internet, social networks follow the same trend.
+Its clustering coefficient is higher than a random network, nodes tend to mix with nodes of higher degree.
+These are scale-free networks.
